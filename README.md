@@ -3,7 +3,10 @@
 ### Education
 - PhD,  Mathematics/statistics | Purdue University (in progress)
 
-### Work Experience
+## Skills
+- **Language:** Python, Java
+- **Data Science:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
+- **Tools:** Jupyter Notebook, Github, Excel
 
 
 ### Projects
