@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Education
-Mathematics/statistics, PhD
+- PhD,  Mathematics/statistics | Purdue University (in progress)
 
 ### Work Experience
 
