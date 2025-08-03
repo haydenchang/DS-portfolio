@@ -7,4 +7,5 @@
 
 
 ### Projects
-ChordFlow: Guitar Chord Frequency and Transition Analyzer
+| Project | Description | Tools |
+| [Used Car Price Prediction] () | 
