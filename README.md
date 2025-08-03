@@ -8,4 +8,5 @@
 
 ### Projects
 | Project | Description | Tools |
-| [Used Car Price Prediction] () | 
+|---------| ------------|-------|
+| [Used Car Price Prediction] (https://github.com/haydenchang/Used-car-price-prediction.git) | 
