@@ -1,8 +1,8 @@
 # Data Scientist
 
 ### Education
-- Purdue University - West Lafayette, IN
-- BS, Mathematics & Statistics (in progress) | Minor in Computer Science, Management (expected 2027)
+  Purdue University - West Lafayette, IN
+  BS, Mathematics & Statistics (in progress) | Minor in Computer Science, Management (expected 2027)
   
 ## Skills
 - **Language:** Python, Java, SQL
