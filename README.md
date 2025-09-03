@@ -16,7 +16,7 @@
 ## Projects
 | Project | Description | Tools | Impacts + Methods |
 |---------| ------------|-------| ----------------- |
-| [Used Car Price Prediction] (https://github.com/haydenchang/Used-car-price-prediction.git) | This project predicts the price of a used car using factors such as mileage, year, accident history, number of previous owners, car type and original car price. | Python, Pandas, Scikit-learn, Matplotlib | |
+| [Used Car Price Prediction] (https://github.com/haydenchang/Used-car-price-prediction.git) | This project predicts the price of a used car using factors such as mileage, year, accident history, number of previous owners and car type. | Python, Pandas, Scikit-learn, Matplotlib | |
 | [Fraud Detection System] (https://github.com/haydenchang/Fraud-Dection-System.git) |  |  | |
 
 ## Leadership & Service
