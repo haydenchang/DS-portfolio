@@ -19,9 +19,12 @@
 | [Used Car Price Prediction] (https://github.com/haydenchang/Used-car-price-prediction.git) | This project predicts the price of a used car using factors such as mileage, year, accident history, number of previous owners, car type and original car price. | Python, Pandas, Scikit-learn, Matplotlib | |
 | [Fraud Detection System] (https://github.com/haydenchang/Fraud-Dection-System.git) |  |  | |
 
+## Leadership & Service
+- Republic of Korea Army - Armored Vehicle Driver | Jan 2024 - July 2025
+    
 
 
 ## Personal Information
-- [Email] : (wynhyun17@gmail.com)
+- [Email] : (personal : wynhyun17@gmail.com | school : chang899@purdue.edu)
 - [LinkedIn] : (https://www.linkedin.com/in/hayden-chang-609473237/)
 - [GitHub] : (github.com/haydenchang/)
