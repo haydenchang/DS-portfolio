@@ -28,8 +28,8 @@ Junior at Purdue University studying Mathematics/Statistics with minor in Comput
 ## Industry Experience / Corporate Projects
  **FedEx Layout Optimization | Purdue Data Mine Corporate Partners**  
 West Lafayette, IN | Aug 2025 - Present
-- Designed optimized layouts to maximize secondary utilitzation and minimize rework time in large-scale facility operations.
-- Analyzed flow patterns, load plan requirements, and facility contraints to model efficient layouts across multiple scenarios
+- Designed optimized layouts to maximize secondary utilization and minimize rework time in large-scale facility operations.
+- Analyzed flow patterns, load plan requirements, and facility constraints to model efficient layouts across multiple scenarios
 - Built adaptable solutions to handle peak demand, beltdown scenarios, and weather event contingencies, enabling scalable use for future operations.
 
 
