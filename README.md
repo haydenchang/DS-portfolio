@@ -44,7 +44,9 @@ _Python, Scikit-learn, Pandas, SMOTE_
 
 ## Leadership & Service
 - **Republic of Korea Army** | Armored Vehicle Operator | Jan 2024 - July 2025
-    -
+    - Led a squad in operating and coordinating mortar-equipped armored vehicles, ensuring mission readiness and precision under high-pressure conditions.
+    - Trained and supervised team members, fostering collaboration and discipline in fast-paced, high-stakes environments.
+    - Developed leadership, decision-making, and problem-solving skills directly transferable to corporate and technical settings.
     
 
 
