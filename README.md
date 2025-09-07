@@ -7,7 +7,7 @@
 
 
 ## Summary
-
+Junior at Purdue University studying Mathematics/Statistics with minor in Computer Science and Management. Strong foundation in statistical modeling, machine learning, and optimization with hands on experience building predictive models and data-driven solutions. Seeking data science internship to apply technical and analytical skills to real-world problems
 
 ## Education
   **Purdue University**, West Lafayette, IN
