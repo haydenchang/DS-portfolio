@@ -26,16 +26,17 @@ Junior at Purdue University studying Mathematics/Statistics with minor in Comput
 - **Tools:** Jupyter Notebook, Github, Excel
 
 ## Industry Experience / Corporate Projects
-**FedEx Layout Optimization** | The Data Mine Corporate Partners, Purdue University, West Lafayette, IN
-    -
+**FedEx Layout Optimization | Purdue Data Mine Corporate Partners**
+West Lafayette, IN | Aug 2025 - Present
+- 
+
 
 ## Projects
 **Used Car Price Prediction** | https://github.com/haydenchang/Used-car-price-prediction.git
 _Python, Scikit-learn, Pandas, Matplotlib, SMOTE_
-* Build machine learning models that predicts used car price using factors such as mileage, year, accident history, number of previous owners and car type. | Python, Pandas, Scikit-learn, Matplotlib | Regression techniques(Linear, Ridge, Lasso, Random Forest), feature engineering, and performance evaluation (R^2, RMSE, MAE) |
+* Build machine learning models that predicts used car price using factors such as mileage, year, accident history, number of previous owners and car type. | Python, Pandas, Scikit-learn, Matplotlib | Regression techniques(Linear, Ridge, Lasso, Random Forest), feature engineering, and performance evaluation (R^2, RMSE, MAE)
 **Fraud Detection System** | https://github.com/haydenchang/Fraud-Dection-System.git
-_ _
-
+_Python, Scikit-learn, Pandas, SMOTE_
 * 
 
 ## Leadership & Service
