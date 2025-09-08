@@ -51,7 +51,7 @@ _Python, Scikit-learn, Pandas, SMOTE_
 - **Republic of Korea Army** | Armored Vehicle Operator / Squad Leader | Jan 2024 - July 2025
     - Led a squad in operating and coordinating mortar-equipped armored vehicles, ensuring mission readiness and precision under high-pressure conditions.
     - Trained and supervised team members, fostering collaboration and discipline in fast-paced, high-stakes environments.
-- **Purdue Machine Learning Club** | Memeber
+- **Purdue Machine Learning Club** | Member
     - Collaborate with undergraduate and graduate students on ML projects, workshops and Kaggle-style competitions to improve machine learning skills.
     
 
