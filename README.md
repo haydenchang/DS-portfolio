@@ -35,18 +35,20 @@ West Lafayette, IN | Aug 2025 - Present
 
 ## Projects
 **Used Car Price Prediction** | https://github.com/haydenchang/Used-car-price-prediction.git
+
 _Python, Scikit-learn, Pandas, Matplotlib, SMOTE_
 * Build regression models that predicts used car price using factors such as mileage, year, accident history, ownership and car type.
 * Compared five models : Gradient Boosting reduced RMSE by 15% and improved r^2 by 0.12 compared to Ridge, outperforming Linear and Lasso regression
 * Utilized SMOTE for class balancing and feature engineering to improve generalization
 
 **Fraud Detection System** | https://github.com/haydenchang/Fraud-Dection-System.git
+
 _Python, Scikit-learn, Pandas, SMOTE_
 * Developed a binary classification pipeline to identify fraudulent transactions, accomplishing 92% accuracy using Logistic Regression and Gradient Boosting.
 * Utilized SMOTE to counteract severe class imbalance and improved recall by 20% compared to baseline models.
 
 ## Leadership & Service
-- **Republic of Korea Army** | Armored Vehicle Operator | Jan 2024 - July 2025
+- **Republic of Korea Army** | Armored Vehicle Operator / Squad Leader | Jan 2024 - July 2025
     - Led a squad in operating and coordinating mortar-equipped armored vehicles, ensuring mission readiness and precision under high-pressure conditions.
     - Trained and supervised team members, fostering collaboration and discipline in fast-paced, high-stakes environments.
 - **Purdue Machine Learning Club** | Memeber
