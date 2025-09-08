@@ -15,9 +15,7 @@ Junior at Purdue University studying Mathematics/Statistics with minor in Comput
   Minors in Computer Science, Management
   
   **Relevant Coursework:**
-  • Multivariate Calculus   • Probability & Statistical Theory   • Problem‑Solving & Programming
-  • Elementary Linear Algebra   • Foundations of Computer Science   • Microeconomics
-  • Programming in C*   • Foundations of Analysis*
+  • Data Mine Seminar (Applied Data Science) • Problem‑Solving & Programming • Programming in C • Foundations of Computer Science • Probability & Statistical Theory • Elementary Linear Algebra
   
 ## Skills
 - **Language:** Python, Java, SQL
